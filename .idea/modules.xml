@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/devise_convertisseur/devise_convertisseur/devise_convertisseur.iml" filepath="$PROJECT_DIR$/devise_convertisseur/devise_convertisseur/devise_convertisseur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devise_crud/devise_crud/devise_crud.iml" filepath="$PROJECT_DIR$/devise_crud/devise_crud/devise_crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-isi.iml" filepath="$PROJECT_DIR$/projet-isi.iml" />
+    </modules>
+  </component>
+</project>
